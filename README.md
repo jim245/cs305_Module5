@@ -3,7 +3,7 @@ Class Assignment for CS-305 Module 5
 # Contributors
 Michael - mbr238
 
-MIT License
+# MIT License
 
 Copyright (c) [year] [fullname]
 
